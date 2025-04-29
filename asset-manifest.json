@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Music-playlist-batch-creator/static/css/main.073c9b0a.css",
+    "main.js": "/Music-playlist-batch-creator/static/js/main.2c9d0426.js",
+    "static/js/787.ab9f064c.chunk.js": "/Music-playlist-batch-creator/static/js/787.ab9f064c.chunk.js",
+    "index.html": "/Music-playlist-batch-creator/index.html",
+    "main.073c9b0a.css.map": "/Music-playlist-batch-creator/static/css/main.073c9b0a.css.map",
+    "main.2c9d0426.js.map": "/Music-playlist-batch-creator/static/js/main.2c9d0426.js.map",
+    "787.ab9f064c.chunk.js.map": "/Music-playlist-batch-creator/static/js/787.ab9f064c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2c9d0426.js"
+  ]
+}
